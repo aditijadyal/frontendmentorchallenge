@@ -60,7 +60,7 @@ h4 {
 }
 
 .right-container{
-    background: url(./images/image-header-desktop.jpg) no-repeat center center/cover;
+    background: url(.image-header-desktop.jpg) no-repeat center center/cover;
     /* background-color: hsl(277, 64%, 61%); */
     width: 500px;
     height: 300px;
